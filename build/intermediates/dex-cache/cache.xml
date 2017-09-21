@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/cesarponcelopez/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.6.0/98476622f10715998eacf9240d6b479f12c66143/okio-1.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="/Users/cesarponcelopez/Desktop/Android-CleanArchitecture-master/presentation/build/intermediates/pre-dexed/debug/okio-1.6.0_2ca12daddf6c74d1e0f53ac3489f38cfd56d7120.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/cesarponcelopez/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp/okhttp/2.5.0/4de2b4ed3445c37ec1720a7d214712e845a24636/okhttp-2.5.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4de2b4ed3445c37ec1720a7d214712e845a24636">
+        <dex dex="/Users/cesarponcelopez/Desktop/Android-CleanArchitecture-master/presentation/build/intermediates/pre-dexed/debug/okhttp-2.5.0_df5ceac07ea5e616ca78b010360484d00559cb7f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/cesarponcelopez/.gradle/caches/modules-2/files-2.1/com.google.dagger/dagger/2.8/55a1aa1cdcfd06b9950ca856e2bc2790e105146a/dagger-2.8.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="55a1aa1cdcfd06b9950ca856e2bc2790e105146a">
+        <dex dex="/Users/cesarponcelopez/Desktop/Android-CleanArchitecture-master/presentation/build/intermediates/pre-dexed/debug/dagger-2.8_46e7ef4be097116fc6d2e0cb8ef5680b53384c03.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/cesarponcelopez/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.3/support-annotations-21.0.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="/Users/cesarponcelopez/Desktop/Android-CleanArchitecture-master/presentation/build/intermediates/pre-dexed/debug/support-annotations-21.0.3_ea44867a6e51ceeacc608aa1e9c984d93bb3e1d1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/cesarponcelopez/.android/build-cache/ea66b232313fcd7440214625be07071b561ca472/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4b8945fc23a7461c6fdde15753456d64b0a9358b">
+        <dex dex="/Users/cesarponcelopez/Desktop/Android-CleanArchitecture-master/presentation/build/intermediates/pre-dexed/debug/classes_26dffcce7270a40c053dd3943fd43d6fe1cdac6e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/cesarponcelopez/.gradle/caches/modules-2/files-2.1/org.reactivestreams/reactive-streams/1.0.0/14b8c877d98005ba3941c9257cfe09f6ed0e0d74/reactive-streams-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="14b8c877d98005ba3941c9257cfe09f6ed0e0d74">
+        <dex dex="/Users/cesarponcelopez/Desktop/Android-CleanArchitecture-master/presentation/build/intermediates/pre-dexed/debug/reactive-streams-1.0.0_42f2392c1bfffff213e480110db0b399cf530f2b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/cesarponcelopez/Desktop/Android-CleanArchitecture-master/data/build/intermediates/bundles/default/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9930d345e2ec8f03bd9c0c05c04e0821a49f648e">
+        <dex dex="/Users/cesarponcelopez/Desktop/Android-CleanArchitecture-master/presentation/build/intermediates/pre-dexed/debug/classes_9d42dae9fd4d3871ea2640e827a02e3156c6cc9b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/cesarponcelopez/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife/7.0.1/d5d13ea991eab0252e3710e5df3d6a9d4b21d461/butterknife-7.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d5d13ea991eab0252e3710e5df3d6a9d4b21d461">
+        <dex dex="/Users/cesarponcelopez/Desktop/Android-CleanArchitecture-master/presentation/build/intermediates/pre-dexed/debug/butterknife-7.0.1_766e4065d48124444741a80fe9a3068e0ae290a0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/cesarponcelopez/.gradle/caches/modules-2/files-2.1/com.squareup.leakcanary/leakcanary-watcher/1.3.1/6904771474c058abfc5912c13d12b02754712165/leakcanary-watcher-1.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6904771474c058abfc5912c13d12b02754712165">
+        <dex dex="/Users/cesarponcelopez/Desktop/Android-CleanArchitecture-master/presentation/build/intermediates/pre-dexed/debug/leakcanary-watcher-1.3.1_7fe20c2a99f3f931e67864b630eb29d4d879a18d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/cesarponcelopez/.android/build-cache/4cfcb17adb91d88aa4d1ed0d3d6b887c56eabd30/output/jars/libs/internal_impl-21.0.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="/Users/cesarponcelopez/Desktop/Android-CleanArchitecture-master/presentation/build/intermediates/pre-dexed/debug/internal_impl-21.0.3_1356e08bbe18392a556a7e1a6dbff81fc87808a0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/cesarponcelopez/Desktop/Android-CleanArchitecture-master/domain/build/libs/domain.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ee23fb67f3e25e4152c0ed858a3c83964dd5b312">
+        <dex dex="/Users/cesarponcelopez/Desktop/Android-CleanArchitecture-master/presentation/build/intermediates/pre-dexed/debug/domain_dd9fd822ee442859386a3b19fd3e7c6388d26cbd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/cesarponcelopez/.gradle/caches/modules-2/files-2.1/org.jetbrains/annotations/13.0/919f0dfe192fb4e063e7dacadee7f8bb9a2672a9/annotations-13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="919f0dfe192fb4e063e7dacadee7f8bb9a2672a9">
+        <dex dex="/Users/cesarponcelopez/Desktop/Android-CleanArchitecture-master/presentation/build/intermediates/pre-dexed/debug/annotations-13.0_06c247fd76aba27fae32a58c22db4ea7089001e3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/cesarponcelopez/.gradle/caches/modules-2/files-2.1/com.squareup.leakcanary/leakcanary-analyzer/1.3.1/325e7401a7ea16918eb39ba8baad8fd5561a55d3/leakcanary-analyzer-1.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="325e7401a7ea16918eb39ba8baad8fd5561a55d3">
+        <dex dex="/Users/cesarponcelopez/Desktop/Android-CleanArchitecture-master/presentation/build/intermediates/pre-dexed/debug/leakcanary-analyzer-1.3.1_aa30f799116e40ac3541ef8ea727fe5e2f120c4c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/cesarponcelopez/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/Users/cesarponcelopez/Desktop/Android-CleanArchitecture-master/presentation/build/intermediates/pre-dexed/debug/javax.inject-1_e5ed443e0d12fb402184eb9415b299a51026ca6c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/cesarponcelopez/.gradle/caches/modules-2/files-2.1/com.fernandocejas/arrow/1.0.0/653fc63eb69b44fda2e4c23de2ec2c7e6c028d34/arrow-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="653fc63eb69b44fda2e4c23de2ec2c7e6c028d34">
+        <dex dex="/Users/cesarponcelopez/Desktop/Android-CleanArchitecture-master/presentation/build/intermediates/pre-dexed/debug/arrow-1.0.0_ee7abb76a4602f3cf371fec621a59c62ee468e29.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/cesarponcelopez/.android/build-cache/2867bf23579a80ebfbf6fc8e0dd30d11dae3944b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9066b6d4e2536b49e3b58aa301fd925247032df0">
+        <dex dex="/Users/cesarponcelopez/Desktop/Android-CleanArchitecture-master/presentation/build/intermediates/pre-dexed/debug/classes_e848b908c8b609b745889e3a39e034c3a6225713.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/cesarponcelopez/.android/build-cache/2ce3d574d641b0c3d09d02c95dc3028c35c9d7cd/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4119ea97a7191ff9b8f33b534ea220448f62f491">
+        <dex dex="/Users/cesarponcelopez/Desktop/Android-CleanArchitecture-master/presentation/build/intermediates/pre-dexed/debug/classes_ca157780f65affae77ade0b80b2fa2221b93e4f5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/cesarponcelopez/.gradle/caches/modules-2/files-2.1/com.squareup.haha/haha/1.3/d2c832f9d14a11c79f58a7ee2e10526a12152c72/haha-1.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d2c832f9d14a11c79f58a7ee2e10526a12152c72">
+        <dex dex="/Users/cesarponcelopez/Desktop/Android-CleanArchitecture-master/presentation/build/intermediates/pre-dexed/debug/haha-1.3_f47282b5d7dd36aa9c1df3a87ab8bc3d78e48c37.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/cesarponcelopez/.gradle/caches/modules-2/files-2.1/io.reactivex.rxjava2/rxjava/2.0.2/cfccdd18cdfbe7b4773d42c9f3512eeafbe5cbf9/rxjava-2.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="cfccdd18cdfbe7b4773d42c9f3512eeafbe5cbf9">
+        <dex dex="/Users/cesarponcelopez/Desktop/Android-CleanArchitecture-master/presentation/build/intermediates/pre-dexed/debug/rxjava-2.0.2_e278ec974855d5d3316ef0da7cb43ac1072330fe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/cesarponcelopez/.android/build-cache/4cfcb17adb91d88aa4d1ed0d3d6b887c56eabd30/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="/Users/cesarponcelopez/Desktop/Android-CleanArchitecture-master/presentation/build/intermediates/pre-dexed/debug/classes_be13ae43a73f204ae0cd074e6ee7ecec65bc0086.jar" />
+    </item>
+
+</items>
